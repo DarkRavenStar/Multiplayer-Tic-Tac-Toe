@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Particle System by 0118856 Teena.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\dependency\glfw\include\glfw\glfw3.h(104): note: see previous definition of 'APIENTRY'
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\gui.h(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\gui.h(184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\gui.h(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\consoleapplication1.cpp(36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\consoleapplication1.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\consoleapplication1.cpp(108): warning C4101: 'height': unreferenced local variable
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\consoleapplication1.cpp(107): warning C4101: 'width': unreferenced local variable
+  TicTacToe.cpp
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\tictactoe.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\tictactoe.cpp(229): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\tictactoe.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\datapacker.h(57): warning C4715: 'UIntPacker::pack': not all control paths return a value
+d:\game development\school project\semester 8\data com\assignment2_turnbasedgame_tictactoe\0118856_teena_multiplayer tictactoefinal\consoleapplication1\datapacker.h(57): warning C4715: 'UIntPacker::pack': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ConsoleApplication1.vcxproj -> D:\Game Development\School Project\Semester 8\Data Com\Assignment2_TurnBasedGame_TicTacToe\0118856_Teena_Multiplayer TicTacToeFinal\Debug\Multiplayer TicTacToe by Teena 0118856.exe
